@@ -15,9 +15,9 @@ disjoint-set==0.7.3
 python-dp==1.1.1
 matplotlib==3.4.3
 networkx==2.6.3
-tqdm==4.62.3
+tqdm==4.66.3
 jax==0.4.1
 jaxlib==0.4.1
 optuna==3.1.0
 dill==0.3.4
-notebook==7.0.6
+notebook==7.0.7
